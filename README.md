@@ -1,2 +1,11 @@
-# all-proxies-socket4-socket5-http-Python-
-python tool
+proxy maker with python
+
+
+
+socket4
+
+socket5
+
+http
+
+
